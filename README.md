@@ -1,2 +1,1 @@
-# CodeAlpha_ProjectName
-This project demonstrates my web scrapping skills using python lab
+Python web scraping project that extracts book titles, prices, and ratings from Books to Scrape, followed by exploratory data analysis in Excel and data visualization.
