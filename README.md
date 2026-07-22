@@ -121,9 +121,11 @@ python books_scraper.py
 
 ## Future Improvements
 
-- Build an interactive Power BI dashboard.
-- Perform advanced statistical analysis.
-- Automate the scraping process with scheduling.
+- Scrape additional book attributes such as availability and category.
+- Automate scheduled data collection.
+- Store scraped data in a SQL database.
+- Build an interactive Power BI dashboard with filters.
+- Deploy the scraper as an automated workflow.
 
 ---
 
