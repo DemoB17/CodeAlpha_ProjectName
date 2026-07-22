@@ -6,6 +6,19 @@ This project was completed as part of the CodeAlpha Data Analytics Internship.
 
 The objective was to scrape book information from the **Books to Scrape** website using Python. The collected data was cleaned, exported to CSV, analyzed using Microsoft Excel, and visualized to uncover meaningful insights.
 
+## Skills Demonstrated
+
+- Web Scraping
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Microsoft Excel
+- Power BI
+- Python Programming
+- Git Version Control
+- GitHub Documentation
+
 ---
 
 ## Objectives
@@ -82,6 +95,28 @@ CodeAlpha-Web-Scraping-Books/
 - Produced summary statistics and visualizations.
 - Built a reusable dataset for further analysis.
 
+  
+## How to Run
+
+1. Clone the repository.
+
+```bash
+git clone <repository-url>
+```
+
+2. Install dependencies.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Navigate to the `src` folder.
+
+4. Run:
+
+```bash
+python books_scraper.py
+```
 ---
 
 ## Future Improvements
